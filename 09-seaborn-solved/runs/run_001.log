@@ -1,0 +1,14 @@
+gen=0,fit=0.00
+gen=1,fit=0.16
+gen=2,fit=0.18
+gen=5,fit=0.21
+gen=9,fit=0.37
+gen=21,fit=0.66
+gen=23,fit=0.75
+gen=29,fit=0.76
+gen=57,fit=0.78
+gen=61,fit=0.79
+gen=71,fit=0.80
+gen=77,fit=0.83
+gen=92,fit=0.83
+gen=96,fit=0.90
